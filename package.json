@@ -1,0 +1,23 @@
+{
+  "name": "zenn_ryu9",
+  "version": "1.0.0",
+  "description": "ZENNのためのリポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kryusei2000/zenn_ryu9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kryusei2000/zenn_ryu9/issues"
+  },
+  "homepage": "https://github.com/kryusei2000/zenn_ryu9#readme",
+  "dependencies": {
+    "zenn-cli": "^0.2.1"
+  }
+}

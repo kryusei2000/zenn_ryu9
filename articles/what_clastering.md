@@ -46,4 +46,4 @@ published: True
 この記事に誤りがありましたらご指摘ください。
 
 
-[^1]:https://zenn.dev/ryu9/articles/ai_ml_nn_dl_overview#%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%A8%E3%81%AF
+[^1]:[AI・機械学習・ニューラルネットワーク・ディープラーニングとは?](https://zenn.dev/ryu9/articles/ai_ml_nn_dl_overview#%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%A8%E3%81%AF)

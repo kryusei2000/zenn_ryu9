@@ -1,6 +1,6 @@
 ---
 title: "クラスタリングの手法の1つ　k-means法 (k平均法) についてまとめてみた"
-emoji: "✨"
+emoji: "🌜"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["kmeans", "k平均法", "クラスタリング", "機械学習"]
 published: True

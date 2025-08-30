@@ -128,6 +128,6 @@ k-meansという名前のkはクラスタ数、meansは平均のことで、各�
 この記事に誤りがありましたらご指摘ください。  
 最後までお読みいただきありがとうございました。  
 (2025/8/17追記: k-medoids法についての[記事](https://zenn.dev/ryu9/articles/clustering-kmedoids)をアップしました)  
-(2025/8/30追記: k-means++についての[記事](https://zenn.dev/ryu9/articles/clustering-kmedoids)をアップしました)  
+(2025/8/30追記: k-means++についての[記事](https://zenn.dev/ryu9/articles/clustering-kmeansplusplus)をアップしました)  
 
 [^1]:[クラスタリングとは? ~各手法説明のための導入として~](https://zenn.dev/ryu9/articles/what_clastering#%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E7%A8%AE%E9%A1%9E)

@@ -4,7 +4,7 @@ emoji: "✨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["AI", "機械学習", "ニューラルネットワーク", "ディープラーニング"]
 published: True
-published_at: "2025-02-02"
+published_at: "2025-02-02 09:00"
 ---
 
 ## この記事で学べること

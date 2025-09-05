@@ -4,6 +4,7 @@ emoji: "💎"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["kmeanspp", "kmeans", "クラスタリング", "機械学習"]
 published: true
+published_at: "2025-03-29"
 ---
 
 ## この記事で学べること

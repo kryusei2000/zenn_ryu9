@@ -122,3 +122,4 @@ https://zenn.dev/ryu9/articles/clustering-kmeans#%E5%90%84%E3%82%B9%E3%83%86%E3%
 今回はk-means法 (k平均法) で賢く初期値を決める方法であるk-means++についてその手法を見てきました。今後は、クラスタ数を根拠を持って決める方法 (エルボー法) などについての記事も投稿予定です。
 この記事に誤りがありましたらご指摘ください。  
 最後までお読みいただきありがとうございました。 
+(2025/9/6追記: エルボー法についての[記事](https://zenn.dev/ryu9/articles/elbowmethod-silhouette)をアップしました)
